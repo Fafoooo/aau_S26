@@ -16,6 +16,16 @@
 
 ---
 
+## 📅 Abgaben-Kalender
+
+Alle Deadlines als abonnierbarer Kalender:
+
+**[🔗 Kalender abonnieren (ICS)](https://gist.githubusercontent.com/Fafoooo/9cf201bc16f716803804ee4a41159347/raw/abgaben.ics)**
+
+> In Google Calendar, Apple Calendar oder Outlook einfach die URL als Abo hinzufügen — Updates kommen automatisch.
+
+---
+
 ## 🛠️ Setup
 
 ```bash
