@@ -38,5 +38,5 @@ gh repo list Fafoooo --json name,sshUrl \
 ---
 
 <p align="center">
-  <sub>🎓 SS 2026 · Fabio Schmickl</sub>
+  <sub>🎓 SS 2026 · Fabio Schmickl · Last verified: 2026-03-14</sub>
 </p>
